@@ -3,7 +3,7 @@ BiteGo is a full-stack food deliver
 y web application built using the MERN stack. It allows customers to browse food items, manage their cart, place orders, provide delivery details, and make online payments through Cashfree. It also includes a separate admin panel for managing food items and customer orders.
 
 🚀 Live Project
-Frontend: https://bitego-frontend.onrender.com/
+Link: https://bitego-frontend.onrender.com/
 
 
 
