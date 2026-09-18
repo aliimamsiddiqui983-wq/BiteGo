@@ -284,7 +284,7 @@ Start the backend:
 npm run server
 The backend runs on:
 
-http://localhost:4000
+https://bitego-backend-vy8m.onrender.com
 3. Install Frontend Dependencies
 Open another terminal:
 

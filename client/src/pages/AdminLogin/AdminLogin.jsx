@@ -11,7 +11,7 @@ const AdminLogin = () => {
 
     try {
       const response = await fetch(
-              "http://localhost:4000/api/user/admin-login",
+              "https://bitego-backend-vy8m.onrender.com",
 
         {
           method: "POST",
